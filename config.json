@@ -1,0 +1,9 @@
+{
+  "DISCORD_TOKEN": "",
+  "GUILD_ID": null,
+  "PREFIX": "!",
+  "OWNER_ID": null,
+  "STAFF_ROLE_ID": null,
+  "MUSIC_AUTO_DISCONNECT": 0,
+  "MUSIC_AUTO_RECONNECT": true
+}

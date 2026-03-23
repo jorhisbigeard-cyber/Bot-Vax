@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "name": "Démarrer le Bot Discord",
+  "description": "Lance le bot Discord manuellement en un clic depuis l'explorateur Kiro",
+  "version": "1",
+  "when": {
+    "type": "userTriggered"
+  },
+  "then": {
+    "type": "runCommand",
+    "command": ".venv\\Scripts\\python run_bot.py"
+  }
+}
